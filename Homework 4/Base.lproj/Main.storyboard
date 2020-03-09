@@ -20,8 +20,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Next Slide"/>
                                 <connections>
-                                    <action selector="nextSlide:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ukI-42-mdD"/>
-                                    <segue destination="D51-Jm-TzV" kind="show" id="XuB-dC-a9k"/>
+                                    <segue destination="D51-Jm-TzV" kind="show" id="9ee-MI-TZp"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Welcome" textAlignment="center" lineBreakMode="tailTruncation" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sMV-yj-Rgi">
